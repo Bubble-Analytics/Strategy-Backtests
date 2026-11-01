@@ -24,3 +24,13 @@ venv/
 
 # Secrets
 .env
+
+# Generated article notebook results
+/AMZN_Donchian/snapshots/
+/AMZN_Donchian/charts/
+/META_Stochastic_Momentum/snapshots/
+/META_Stochastic_Momentum/charts/
+/JPM_Balance_of_Power/snapshots/
+/JPM_Balance_of_Power/charts/
+/SPX_Breadth_Recovery/snapshots/
+/SPX_Breadth_Recovery/charts/
