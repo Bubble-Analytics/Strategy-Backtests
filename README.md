@@ -10,7 +10,7 @@ Python strategy backtests and trading notebooks accompanying Bubble Analytics ar
 
 ## Wednesday article notebooks
 
-Each folder includes the completed backtest notebook, the existing template, requirements and frozen input data.
+Each folder contains the original working codebook, `TEMPLATE.ipynb` and `requirements.txt`. The notebooks retain their original cells, plotting code, saved outputs and errors. Article results may come from a later verified run.
 
 | Article date | Strategy | Notebook folder |
 | --- | --- | --- |
